@@ -60,6 +60,11 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 
 
+### Local Sustainable Energy and Climate Action Plans <a name="local-secaps"></a> 
+- [SECAP Municipality of Belgrade](https://tuzi.org.me/cg/secap-tuzi-alb-2021-2/](https://ebrdgreencities.com/assets/Uploads/PDF/Belgrade-SECAP.pdf)
+
+
+
 ### Studies and research papers <a name="studies-research"></a> 
 
 
