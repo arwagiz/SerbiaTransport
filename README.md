@@ -16,7 +16,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - [Climate and energy policies](#climate-energy-policies) 
 - [EU accession](#eu-accession)
 - [Trade Facilitation](#trade-facilitation)  
-- [Local Transport Plans](#local-transport-plans) 
+- [Local Transport Plans](#local-transport-plans)
+- [Local Sustainable Energy and Climate Action Plans](local-secaps) 
 - [Studies and research papers](#studies-research) 
 - [International cooperation projects and strategies](#International-cooperation) 
 - [Data](#data) 
@@ -61,7 +62,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 
 ### Local Sustainable Energy and Climate Action Plans <a name="local-secaps"></a> 
-- [SECAP Municipality of Belgrade](https://tuzi.org.me/cg/secap-tuzi-alb-2021-2/](https://ebrdgreencities.com/assets/Uploads/PDF/Belgrade-SECAP.pdf)
+- [SECAP Municipality of Belgrade](https://ebrdgreencities.com/assets/Uploads/PDF/Belgrade-SECAP.pdf)
 
 
 
